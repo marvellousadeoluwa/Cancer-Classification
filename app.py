@@ -8,7 +8,6 @@ import helper
 final_features = helper.final_features
 __version__ = helper.__version__
 
-
 st.write("""
 # Breast Cancer Classification
 **Welcome to this cancer classification app.**
