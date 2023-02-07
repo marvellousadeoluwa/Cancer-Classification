@@ -1,3 +1,4 @@
 
-sklearn == v1.2.0
-streamlit
+sklearn == 1.2.0
+streamlit == 1.17.0
+numpy == 1.20.1
